@@ -1,2 +1,2 @@
 # AkilliCihaz_CoolerSystem
-proje21 kısmından kodlarıma ulaşabilirsiniz.
+# proje21 kısmından kodlarıma ulaşabilirsiniz.
